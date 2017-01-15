@@ -1,7 +1,7 @@
 #!/bin/sh
 
 sudo apt-get -y install vim-gnome
-sudo apt-get -y install zsh
+sudo apt-get -y install zsh ctags
 sudo apt-get -y install git cmake graphviz doxygen
 git config --global user.email "xeonqq@gmail.com"
 git config --global user.name "xeonqq" 
